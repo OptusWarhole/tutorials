@@ -1,0 +1,11 @@
+
+a{
+	color           : rgba($colorWhite, 0.5);
+	text-decoration : none;
+
+	transition      : all 0.8s ease 0s;
+
+	&:hover{
+		color : rgba($colorWhite, 1);
+	}
+}
